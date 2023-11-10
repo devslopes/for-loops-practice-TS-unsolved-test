@@ -8,7 +8,14 @@
  * * Returns an array of bank accounts that have a sum of deposits less than 2000 or no deposits at all
  * The for loop must be used
  * The function must be exported
- * Example: getAllAccountsWithSumsOfDepositsLess2000(bankAccounts) => [3432, 43242.34, 23432]
+ * Example:
+// getAllAccountsWithSumsOfDepositsLess2000(bankAccounts) => [
+//    Susan's Account Object,
+//    Morgan's Account Object
+//    Joshua's Account Object
+//    Candy's Account Object,
+//    Phil's Account Object
+// ]
  */
 
 import { BankAccount } from './e5';
